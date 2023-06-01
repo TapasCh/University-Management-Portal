@@ -110,4 +110,4 @@ To contribute to the management system, follow these steps:
 
 ## Contact
 
-If you have any questions or feedback, please contact Sayak Pan at sayakpan9635@gmail.com.
+If you have any questions or feedback, please contact Sayak Pan at sayakpan9635@gmail.com and Tapas Chatterjee at tapasch1998@gmail.com.
